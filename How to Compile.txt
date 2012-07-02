@@ -1,0 +1,18 @@
+Compiling dWOL is easy.
+
+You need a copy of FreePascal from http://www.freepascal.org/ (or if your on windows you can use Delphi 6 - it probably compiles on 7/8/turbo aswell, I dont know).
+
+Linux
+-------
+If you are a linux user, you just need to type ./build.sh and it will build the binary for you without a problem as long as freepascal is in your path (which it should be)
+FreePascal Compile has only been tested with 2.0.0
+
+Windows
+-------
+Delphi6+:
+if you are compiling with Delphi, just use Build.bat and it will compile without a problem as long as delphi is in your path (which it should be)
+Delphi Compile has only been tested with Delphi 6
+
+FreePascal (FPC):
+if you are compiling with FreePascal, use Build_FPC.bat and it will compile without a problem as long as freepascal is in your path (which it should be)
+FreePascal Compile has only been tested with 2.0.0
